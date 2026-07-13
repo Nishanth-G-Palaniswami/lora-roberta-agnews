@@ -1,0 +1,10 @@
+torch
+transformers
+peft
+datasets
+evaluate
+accelerate
+scikit-learn
+numpy
+# optional experiment tracking
+wandb
